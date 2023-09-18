@@ -1,2 +1,2 @@
-# trechos
+# repositorios
 todo tipo de código
